@@ -26,7 +26,13 @@ function checkUpdate() {
     let data;
     getAPIContent(url)
         .then((_data) => {
-            data = _data[0].name; // 0.1.0
+            let temp_ = _data[0].name; // 查看有没有preview
+            data = _data[0].tag_name; // x.x.x
+            if(temp_.includes(`Preview`)) {
+                // 最新版 = preview版本 - 1个小版本
+                data = `${data.split(`.`)[0]}.${data.split(`.`)[1]}.${data.split(`.`)[2] - 1}`;
+            }
+            
             let now = new Date();
             let checktime = `${now.getMonth()}月${now.getDate()}日${now.getHours()}时${now.getMinutes()}分`;
             globalConfig.AutoUpdate.Version.globalVersion = data;
