@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "type": "extension",
+  "name": "更好的QQNT",
+  "slug": "BetterQQ",
+  "description": "QQNT的重量化多功能工具箱",
+  "version": "0.1.0",
+  "author": {
+      "name": "GashByte",
+      "link": "https://github.com/GashByte"
+  },
+  "repository": {
+      "repo": "GashByte/BetterQQNTUtil",
+      "branch": "main"
+  },
+  "platform": [
+      "win32",
+      "linux"
+  ],
+  "injects": {
+      "renderer": "./src/renderer.js",
+      "main": "./src/main.js",
+      "preload": "./src/preload.js"
+  }
+}

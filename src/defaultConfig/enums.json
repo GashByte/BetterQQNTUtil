@@ -1,0 +1,62 @@
+{
+    "Translator":{
+        "name": "翻译器",
+        "desc": "将指定的内容从 原语种 翻译成 目标语种",
+        "slug": "Translator"
+    },
+    "PlusOne":{
+        "name": "加一",
+        "desc": "类似手机和旧版QQ的加一功能!是它,就是它!",
+        "slug": "PlusOne"
+    },
+    "LinkColorFix":{
+        "name": "链接颜色修复",
+        "desc": "修复在黑色模式下,自己发出链接消息的颜色与消息框一致导致无法看清 不建议与theme一起使用",
+        "slug": "LinkColorFix"
+    },
+    "RemoveRedPoint":{
+        "name": "去除红点",
+        "desc": "去除左侧导航栏上的红点",
+        "slug": "RemoveRedPoint"
+    },
+    "CustomNavBar":{
+        "name": "自定义导航栏",
+        "desc": "自定义左侧导航栏需要显示的内容",
+        "slug": "CustomNavBar"
+    },
+    "RemoveUpdate":{
+        "name": "去除更新",
+        "desc": "去除每次启动时的更新提示",
+        "slug": "RemoveUpdate"
+    },
+    "AudioVideoAssistant":{
+        "name": "音视频助手",
+        "desc": "用于自动接听或拒绝音视频通话以及其他的辅助功能, 部分功能需要下载第三方库支持",
+        "slug": "AudioVideoAssistant"
+    },
+    "DebugMode":{
+        "name": "调试模式",
+        "desc": "开启调试模式,可以获得更多的调试功能",
+        "slug": "DebugMode"
+    },
+    "Reload":{
+        "name": "重新加载",
+        "desc": "重新加载当前页面,需要开启调试模式",
+        "slug": "Reload"
+    },
+    "BetterConsole":{
+        "name": "控制台增强",
+        "desc": "在当前页面显示控制台输出内容,需要开启调试模式",
+        "slug": "BetterConsole"
+    },
+    "BetterQQUtil":{
+        "name": "BetterQQUtil",
+        "desc": "BetterQQUtil",
+        "slug": "BetterQQUtil"
+    },
+    "AutoUpdate":{
+        "name": "检测更新",
+        "desc": "检测更新BetterQQUtil,但是可能造成一些问题",
+        "slug": "AutoUpdate"
+    }
+}

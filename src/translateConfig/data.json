@@ -1,0 +1,812 @@
+{
+    "BaiduTranslateLang":{
+        "自动检测auto": {
+            "name": "自动检测",
+            "code": "auto"
+        },
+        "中文简体zh": {
+            "name": "中文简体",
+            "code": "zh"
+        },
+        "英语en": {
+            "name": "英语",
+            "code": "en"
+        },
+        "中文繁体cht": {
+            "name": "中文繁体",
+            "code": "cht"
+        },
+        "日语jp": {
+            "name": "日语",
+            "code": "jp"
+        },
+        "法语fra": {
+            "name": "法语",
+            "code": "fra"
+        },
+        "俄语ru": {
+            "name": "俄语",
+            "code": "ru"
+        },
+        "韩语kor": {
+            "name": "韩语",
+            "code": "kor"
+        },
+        "德语de": {
+            "name": "德语",
+            "code": "de"
+        },
+        "中文文言文wyw": {
+            "name": "中文文言文",
+            "code": "wyw"
+        },
+        "中文粤语yue": {
+            "name": "中文粤语",
+            "code": "yue"
+        },
+        "泰语th": {
+            "name": "泰语",
+            "code": "th"
+        },
+        "阿拉伯语ara": {
+            "name": "阿拉伯语",
+            "code": "ara"
+        },
+        "爱尔兰语gle": {
+            "name": "爱尔兰语",
+            "code": "gle"
+        },
+        "奥克语oci": {
+            "name": "奥克语",
+            "code": "oci"
+        },
+        "阿尔巴尼亚语alb": {
+            "name": "阿尔巴尼亚语",
+            "code": "alb"
+        },
+        "阿尔及利亚阿拉伯语arq": {
+            "name": "阿尔及利亚阿拉伯语",
+            "code": "arq"
+        },
+        "阿肯语aka": {
+            "name": "阿肯语",
+            "code": "aka"
+        },
+        "阿拉贡语arg": {
+            "name": "阿拉贡语",
+            "code": "arg"
+        },
+        "阿姆哈拉语amh": {
+            "name": "阿姆哈拉语",
+            "code": "amh"
+        },
+        "阿萨姆语asm": {
+            "name": "阿萨姆语",
+            "code": "asm"
+        },
+        "艾马拉语aym": {
+            "name": "艾马拉语",
+            "code": "aym"
+        },
+        "阿塞拜疆语aze": {
+            "name": "阿塞拜疆语",
+            "code": "aze"
+        },
+        "阿斯图里亚斯语ast": {
+            "name": "阿斯图里亚斯语",
+            "code": "ast"
+        },
+        "奥塞梯语oss": {
+            "name": "奥塞梯语",
+            "code": "oss"
+        },
+        "爱沙尼亚语est": {
+            "name": "爱沙尼亚语",
+            "code": "est"
+        },
+        "奥杰布瓦语oji": {
+            "name": "奥杰布瓦语",
+            "code": "oji"
+        },
+        "奥里亚语ori": {
+            "name": "奥里亚语",
+            "code": "ori"
+        },
+        "奥罗莫语orm": {
+            "name": "奥罗莫语",
+            "code": "orm"
+        },
+        "波兰语pl": {
+            "name": "波兰语",
+            "code": "pl"
+        },
+        "波斯语per": {
+            "name": "波斯语",
+            "code": "per"
+        },
+        "布列塔尼语bre": {
+            "name": "布列塔尼语",
+            "code": "bre"
+        },
+        "巴什基尔语bak": {
+            "name": "巴什基尔语",
+            "code": "bak"
+        },
+        "巴斯克语baq": {
+            "name": "巴斯克语",
+            "code": "baq"
+        },
+        "巴西葡萄牙语pot": {
+            "name": "巴西葡萄牙语",
+            "code": "pot"
+        },
+        "白俄罗斯语bel": {
+            "name": "白俄罗斯语",
+            "code": "bel"
+        },
+        "柏柏尔语ber": {
+            "name": "柏柏尔语",
+            "code": "ber"
+        },
+        "邦板牙语pam": {
+            "name": "邦板牙语",
+            "code": "pam"
+        },
+        "保加利亚语bul": {
+            "name": "保加利亚语",
+            "code": "bul"
+        },
+        "北方萨米语sme": {
+            "name": "北方萨米语",
+            "code": "sme"
+        },
+        "北索托语ped": {
+            "name": "北索托语",
+            "code": "ped"
+        },
+        "本巴语bem": {
+            "name": "本巴语",
+            "code": "bem"
+        },
+        "比林语bli": {
+            "name": "比林语",
+            "code": "bli"
+        },
+        "比斯拉马语bis": {
+            "name": "比斯拉马语",
+            "code": "bis"
+        },
+        "俾路支语bal": {
+            "name": "俾路支语",
+            "code": "bal"
+        },
+        "冰岛语ice": {
+            "name": "冰岛语",
+            "code": "ice"
+        },
+        "波斯尼亚语bos": {
+            "name": "波斯尼亚语",
+            "code": "bos"
+        },
+        "博杰普尔语bho": {
+            "name": "博杰普尔语",
+            "code": "bho"
+        },
+        "楚瓦什语chv": {
+            "name": "楚瓦什语",
+            "code": "chv"
+        },
+        "聪加语tso": {
+            "name": "聪加语",
+            "code": "tso"
+        },
+        "丹麦语dan": {
+            "name": "丹麦语",
+            "code": "dan"
+        },
+        "鞑靼语tat": {
+            "name": "鞑靼语",
+            "code": "tat"
+        },
+        "掸语sha": {
+            "name": "掸语",
+            "code": "sha"
+        },
+        "德顿语tet": {
+            "name": "德顿语",
+            "code": "tet"
+        },
+        "迪维希语div": {
+            "name": "迪维希语",
+            "code": "div"
+        },
+        "低地德语log": {
+            "name": "低地德语",
+            "code": "log"
+        },
+        "菲律宾语fil": {
+            "name": "菲律宾语",
+            "code": "fil"
+        },
+        "芬兰语fin": {
+            "name": "芬兰语",
+            "code": "fin"
+        },
+        "梵语san": {
+            "name": "梵语",
+            "code": "san"
+        },
+        "弗留利语fri": {
+            "name": "弗留利语",
+            "code": "fri"
+        },
+        "富拉尼语ful": {
+            "name": "富拉尼语",
+            "code": "ful"
+        },
+        "法罗语fao": {
+            "name": "法罗语",
+            "code": "fao"
+        },
+        "盖尔语gla": {
+            "name": "盖尔语",
+            "code": "gla"
+        },
+        "刚果语kon": {
+            "name": "刚果语",
+            "code": "kon"
+        },
+        "高地索布语ups": {
+            "name": "高地索布语",
+            "code": "ups"
+        },
+        "高棉语hkm": {
+            "name": "高棉语",
+            "code": "hkm"
+        },
+        "格陵兰语kal": {
+            "name": "格陵兰语",
+            "code": "kal"
+        },
+        "格鲁吉亚语geo": {
+            "name": "格鲁吉亚语",
+            "code": "geo"
+        },
+        "古吉拉特语guj": {
+            "name": "古吉拉特语",
+            "code": "guj"
+        },
+        "古希腊语gra": {
+            "name": "古希腊语",
+            "code": "gra"
+        },
+        "古英语eno": {
+            "name": "古英语",
+            "code": "eno"
+        },
+        "瓜拉尼语grn": {
+            "name": "瓜拉尼语",
+            "code": "grn"
+        },
+        "荷兰语nl": {
+            "name": "荷兰语",
+            "code": "nl"
+        },
+        "胡帕语hup": {
+            "name": "胡帕语",
+            "code": "hup"
+        },
+        "哈卡钦语hak": {
+            "name": "哈卡钦语",
+            "code": "hak"
+        },
+        "海地语ht": {
+            "name": "海地语",
+            "code": "ht"
+        },
+        "黑山语mot": {
+            "name": "黑山语",
+            "code": "mot"
+        },
+        "豪萨语hau": {
+            "name": "豪萨语",
+            "code": "hau"
+        },
+        "吉尔吉斯语kir": {
+            "name": "吉尔吉斯语",
+            "code": "kir"
+        },
+        "加利西亚语glg": {
+            "name": "加利西亚语",
+            "code": "glg"
+        },
+        "加拿大法语frn": {
+            "name": "加拿大法语",
+            "code": "frn"
+        },
+        "加泰罗尼亚语cat": {
+            "name": "加泰罗尼亚语",
+            "code": "cat"
+        },
+        "捷克语cs": {
+            "name": "捷克语",
+            "code": "cs"
+        },
+        "卡拜尔语kab": {
+            "name": "卡拜尔语",
+            "code": "kab"
+        },
+        "卡纳达语kan": {
+            "name": "卡纳达语",
+            "code": "kan"
+        },
+        "卡努里语kau": {
+            "name": "卡努里语",
+            "code": "kau"
+        },
+        "卡舒比语kah": {
+            "name": "卡舒比语",
+            "code": "kah"
+        },
+        "康瓦尔语cor": {
+            "name": "康瓦尔语",
+            "code": "cor"
+        },
+        "科萨语xho": {
+            "name": "科萨语",
+            "code": "xho"
+        },
+        "科西嘉语cos": {
+            "name": "科西嘉语",
+            "code": "cos"
+        },
+        "克里克语cre": {
+            "name": "克里克语",
+            "code": "cre"
+        },
+        "克里米亚鞑靼语cri": {
+            "name": "克里米亚鞑靼语",
+            "code": "cri"
+        },
+        "克林贡语kli": {
+            "name": "克林贡语",
+            "code": "kli"
+        },
+        "克罗地亚语hrv": {
+            "name": "克罗地亚语",
+            "code": "hrv"
+        },
+        "克丘亚语que": {
+            "name": "克丘亚语",
+            "code": "que"
+        },
+        "克什米尔语kas": {
+            "name": "克什米尔语",
+            "code": "kas"
+        },
+        "孔卡尼语kok": {
+            "name": "孔卡尼语",
+            "code": "kok"
+        },
+        "库尔德语kur": {
+            "name": "库尔德语",
+            "code": "kur"
+        },
+        "拉丁语lat": {
+            "name": "拉丁语",
+            "code": "lat"
+        },
+        "老挝语lao": {
+            "name": "老挝语",
+            "code": "lao"
+        },
+        "罗马尼亚语rom": {
+            "name": "罗马尼亚语",
+            "code": "rom"
+        },
+        "拉特加莱语lag": {
+            "name": "拉特加莱语",
+            "code": "lag"
+        },
+        "拉脱维亚语lav": {
+            "name": "拉脱维亚语",
+            "code": "lav"
+        },
+        "林堡语lim": {
+            "name": "林堡语",
+            "code": "lim"
+        },
+        "林加拉语lin": {
+            "name": "林加拉语",
+            "code": "lin"
+        },
+        "卢干达语lug": {
+            "name": "卢干达语",
+            "code": "lug"
+        },
+        "卢森堡语ltz": {
+            "name": "卢森堡语",
+            "code": "ltz"
+        },
+        "卢森尼亚语ruy": {
+            "name": "卢森尼亚语",
+            "code": "ruy"
+        },
+        "卢旺达语kin": {
+            "name": "卢旺达语",
+            "code": "kin"
+        },
+        "立陶宛语lit": {
+            "name": "立陶宛语",
+            "code": "lit"
+        },
+        "罗曼什语roh": {
+            "name": "罗曼什语",
+            "code": "roh"
+        },
+        "罗姆语ro": {
+            "name": "罗姆语",
+            "code": "ro"
+        },
+        "逻辑语loj": {
+            "name": "逻辑语",
+            "code": "loj"
+        },
+        "马来语may": {
+            "name": "马来语",
+            "code": "may"
+        },
+        "缅甸语bur": {
+            "name": "缅甸语",
+            "code": "bur"
+        },
+        "马拉地语mar": {
+            "name": "马拉地语",
+            "code": "mar"
+        },
+        "马拉加斯语mg": {
+            "name": "马拉加斯语",
+            "code": "mg"
+        },
+        "马拉雅拉姆语mal": {
+            "name": "马拉雅拉姆语",
+            "code": "mal"
+        },
+        "马其顿语mac": {
+            "name": "马其顿语",
+            "code": "mac"
+        },
+        "马绍尔语mah": {
+            "name": "马绍尔语",
+            "code": "mah"
+        },
+        "迈蒂利语mai": {
+            "name": "迈蒂利语",
+            "code": "mai"
+        },
+        "曼克斯语glv": {
+            "name": "曼克斯语",
+            "code": "glv"
+        },
+        "毛里求斯克里奥尔语mau": {
+            "name": "毛里求斯克里奥尔语",
+            "code": "mau"
+        },
+        "毛利语mao": {
+            "name": "毛利语",
+            "code": "mao"
+        },
+        "孟加拉语ben": {
+            "name": "孟加拉语",
+            "code": "ben"
+        },
+        "马耳他语mlt": {
+            "name": "马耳他语",
+            "code": "mlt"
+        },
+        "苗语hmn": {
+            "name": "苗语",
+            "code": "hmn"
+        },
+        "挪威语nor": {
+            "name": "挪威语",
+            "code": "nor"
+        },
+        "那不勒斯语nea": {
+            "name": "那不勒斯语",
+            "code": "nea"
+        },
+        "南恩德贝莱语nbl": {
+            "name": "南恩德贝莱语",
+            "code": "nbl"
+        },
+        "南非荷兰语afr": {
+            "name": "南非荷兰语",
+            "code": "afr"
+        },
+        "南索托语sot": {
+            "name": "南索托语",
+            "code": "sot"
+        },
+        "尼泊尔语nep": {
+            "name": "尼泊尔语",
+            "code": "nep"
+        },
+        "葡萄牙语pt": {
+            "name": "葡萄牙语",
+            "code": "pt"
+        },
+        "旁遮普语pan": {
+            "name": "旁遮普语",
+            "code": "pan"
+        },
+        "帕皮阿门托语pap": {
+            "name": "帕皮阿门托语",
+            "code": "pap"
+        },
+        "普什图语pus": {
+            "name": "普什图语",
+            "code": "pus"
+        },
+        "齐切瓦语nya": {
+            "name": "齐切瓦语",
+            "code": "nya"
+        },
+        "契维语twi": {
+            "name": "契维语",
+            "code": "twi"
+        },
+        "切罗基语chr": {
+            "name": "切罗基语",
+            "code": "chr"
+        },
+        "瑞典语swe": {
+            "name": "瑞典语",
+            "code": "swe"
+        },
+        "萨丁尼亚语srd": {
+            "name": "萨丁尼亚语",
+            "code": "srd"
+        },
+        "萨摩亚语sm": {
+            "name": "萨摩亚语",
+            "code": "sm"
+        },
+        "塞尔维亚-克罗地亚语sec": {
+            "name": "塞尔维亚克罗地亚语",
+            "code": "sec"
+        },
+        "塞尔维亚语srp": {
+            "name": "塞尔维亚语",
+            "code": "srp"
+        },
+        "桑海语sol": {
+            "name": "桑海语",
+            "code": "sol"
+        },
+        "僧伽罗语sin": {
+            "name": "僧伽罗语",
+            "code": "sin"
+        },
+        "世界语epo": {
+            "name": "世界语",
+            "code": "epo"
+        },
+        "书面挪威语nob": {
+            "name": "书面挪威语",
+            "code": "nob"
+        },
+        "斯洛伐克语sk": {
+            "name": "斯洛伐克语",
+            "code": "sk"
+        },
+        "斯洛文尼亚语slo": {
+            "name": "斯洛文尼亚语",
+            "code": "slo"
+        },
+        "斯瓦希里语swa": {
+            "name": "斯瓦希里语",
+            "code": "swa"
+        },
+        "塞尔维亚语西里尔src": {
+            "name": "塞尔维亚语西里尔",
+            "code": "src"
+        },
+        "索马里语som": {
+            "name": "索马里语",
+            "code": "som"
+        },
+        "土耳其语tr": {
+            "name": "土耳其语",
+            "code": "tr"
+        },
+        "塔吉克语tgk": {
+            "name": "塔吉克语",
+            "code": "tgk"
+        },
+        "泰米尔语tam": {
+            "name": "泰米尔语",
+            "code": "tam"
+        },
+        "他加禄语tgl": {
+            "name": "他加禄语",
+            "code": "tgl"
+        },
+        "提格利尼亚语tir": {
+            "name": "提格利尼亚语",
+            "code": "tir"
+        },
+        "泰卢固语tel": {
+            "name": "泰卢固语",
+            "code": "tel"
+        },
+        "突尼斯阿拉伯语tua": {
+            "name": "突尼斯阿拉伯语",
+            "code": "tua"
+        },
+        "土库曼语tuk": {
+            "name": "土库曼语",
+            "code": "tuk"
+        },
+        "乌克兰语ukr": {
+            "name": "乌克兰语",
+            "code": "ukr"
+        },
+        "瓦隆语wln": {
+            "name": "瓦隆语",
+            "code": "wln"
+        },
+        "威尔士语wel": {
+            "name": "威尔士语",
+            "code": "wel"
+        },
+        "文达语ven": {
+            "name": "文达语",
+            "code": "ven"
+        },
+        "沃洛夫语wol": {
+            "name": "沃洛夫语",
+            "code": "wol"
+        },
+        "乌尔都语urd": {
+            "name": "乌尔都语",
+            "code": "urd"
+        },
+        "西班牙语spa": {
+            "name": "西班牙语",
+            "code": "spa"
+        },
+        "希伯来语heb": {
+            "name": "希伯来语",
+            "code": "heb"
+        },
+        "希腊语el": {
+            "name": "希腊语",
+            "code": "el"
+        },
+        "匈牙利语hu": {
+            "name": "匈牙利语",
+            "code": "hu"
+        },
+        "西弗里斯语fry": {
+            "name": "西弗里斯语",
+            "code": "fry"
+        },
+        "西里西亚语sil": {
+            "name": "西里西亚语",
+            "code": "sil"
+        },
+        "希利盖农语hil": {
+            "name": "希利盖农语",
+            "code": "hil"
+        },
+        "下索布语los": {
+            "name": "下索布语",
+            "code": "los"
+        },
+        "夏威夷语haw": {
+            "name": "夏威夷语",
+            "code": "haw"
+        },
+        "新挪威语nno": {
+            "name": "新挪威语",
+            "code": "nno"
+        },
+        "西非书面语nqo": {
+            "name": "西非书面语",
+            "code": "nqo"
+        },
+        "信德语snd": {
+            "name": "信德语",
+            "code": "snd"
+        },
+        "修纳语sna": {
+            "name": "修纳语",
+            "code": "sna"
+        },
+        "宿务语ceb": {
+            "name": "宿务语",
+            "code": "ceb"
+        },
+        "叙利亚语syr": {
+            "name": "叙利亚语",
+            "code": "syr"
+        },
+        "巽他语sun": {
+            "name": "巽他语",
+            "code": "sun"
+        },
+        "印地语hi": {
+            "name": "印地语",
+            "code": "hi"
+        },
+        "印尼语id": {
+            "name": "印尼语",
+            "code": "id"
+        },
+        "意大利语it": {
+            "name": "意大利语",
+            "code": "it"
+        },
+        "越南语vie": {
+            "name": "越南语",
+            "code": "vie"
+        },
+        "意第绪语yid": {
+            "name": "意第绪语",
+            "code": "yid"
+        },
+        "因特语ina": {
+            "name": "因特语",
+            "code": "ina"
+        },
+        "亚齐语ach": {
+            "name": "亚齐语",
+            "code": "ach"
+        },
+        "印古什语ing": {
+            "name": "印古什语",
+            "code": "ing"
+        },
+        "伊博语ibo": {
+            "name": "伊博语",
+            "code": "ibo"
+        },
+        "伊多语ido": {
+            "name": "伊多语",
+            "code": "ido"
+        },
+        "约鲁巴语yor": {
+            "name": "约鲁巴语",
+            "code": "yor"
+        },
+        "亚美尼亚语arm": {
+            "name": "亚美尼亚语",
+            "code": "arm"
+        },
+        "伊努克提图特语iku": {
+            "name": "伊努克提图特语",
+            "code": "iku"
+        },
+        "伊朗语ir": {
+            "name": "伊朗语",
+            "code": "ir"
+        },
+        "扎扎其语zaz": {
+            "name": "扎扎其语",
+            "code": "zaz"
+        },
+        "中古法语frm": {
+            "name": "中古法语",
+            "code": "frm"
+        },
+        "祖鲁语zul": {
+            "name": "祖鲁语",
+            "code": "zul"
+        },
+        "爪哇语jav": {
+            "name": "爪哇语",
+            "code": "jav"
+        }
+    }
+}

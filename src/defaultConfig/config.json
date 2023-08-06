@@ -1,0 +1,93 @@
+{
+    "Translator":{
+        "enable": false,
+        "APIConfig":{
+            "APIName": ["Baidu"],
+            "BaiduAPI":{
+                "API": "http://api.fanyi.baidu.com/api/trans/vip/translate?",
+                "Appid": "",
+                "SecretKey": ""
+            },
+            "TranslateConfig":{
+                "SourceLang": "auto",
+                "TargetLang": "zh",
+                "AskConfigEveryTime": false
+            }
+        }
+    },
+    "PlusOne":{
+        "enable": false
+    },
+    "LinkColorFix":{
+        "enable": false
+    },
+    "RemoveRedPoint":{
+        "enable": false,
+        "RemoveAll": false
+    },
+    "CustomNavBar":{
+        "enable": false,
+        "delete":{
+            "Message":false,
+            "Contacts":false,
+            "QQspace":false,
+            "QQchannel": false,
+            "QQGame": false,
+            "QQworld": false,
+            "TencentDocs": false
+        }
+    },
+    "RemoveUpdate":{
+        "enable": false
+    },
+    "AudioVideoAssistant":{
+        "enable":false,
+        "Config":{
+            "ALLUser":[],
+            "AutoAcceptConfig":{
+                "enable":false,
+                "AACUser":[]
+            },
+            "AutoRefuseConfig":{
+                "enable":false,
+                "ARCUser":[]
+            },
+            "RealTimeRecording": false
+        }
+    },
+    "DebugMode":{
+        "enable": false
+    },
+    "Reload":{
+        "enable": false,
+        "interval": 1000,
+        "hotKey": "F5"
+    },
+    "BetterConsole":{
+        "enable": false,
+        "Config":{
+            "DisplayInfo": true,
+            "DisplayError": true,
+            "DisplayWarn": false
+        }
+    },
+    "BetterQQUtil":{
+        "hotKey": "F11",
+        "interval": 1000
+    },
+    "AutoUpdate":{
+        "enable": false,
+        "Version":{
+            "localVersion": "0.1.0",
+            "globalVersion": "",
+            "lastCheckTime": ""
+        },
+        "AutoCheckVersion":{
+            "enable":false,
+            "Config":{
+                "intervalDay": 7,
+                "lastestCheckDay": ""
+            }
+        }
+    }
+}
