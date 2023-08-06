@@ -32,3 +32,8 @@ LiteLoaderQQNT Telegram 闲聊群：[Telegram](https://t.me/LiteLoaderQQNT)
 * [x] 调试模式 - 重新加载
 * [ ] 调试模式 - 控制台增强
 * [ ] 需要其他功能可以通过 [Issues](https://github.com/GashByte/BetterQQNTUtil/issues) 进行反馈哦
+
+## 界面
+![image](https://github.com/GashByte/BetterQQNTUtil/assets/120739043/7b3375ef-adae-44bc-90c9-a805c4c08032)
+
+![image](https://github.com/GashByte/BetterQQNTUtil/assets/120739043/4afe10cb-1279-424c-a6aa-ab56902b5908)
