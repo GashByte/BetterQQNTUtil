@@ -9,7 +9,7 @@ LiteLoaderQQNT Telegram 闲聊群：[Telegram](https://t.me/LiteLoaderQQNT)
 1. 安装 [LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT) 本体
 2. 在 LiteLoaderQQNT 插件目录克隆本仓库（或下载仓库源码放入插件目录）
 3. 启动/重启 QQNT
-4. 按下F11或点击坐下角的工具按钮调出BetterQQNTUtil的菜单
+4. 按下F11或点击左下角的工具按钮调出BetterQQNTUtil的菜单
 5. 选择你需要的功能 并且修改对应的内容
 6. 重启 QQNT 享受功能
 
